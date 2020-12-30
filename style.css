@@ -38,8 +38,8 @@ body{
 
 .instagram-continue {
     display: flex;
-    align-items: center; /* horizontal */
-    justify-content: space-around; /* vertical */
+    align-items: center; /* horizontal alignment*/
+    justify-content: space-around; /* vertical alignment*/
     flex-direction: column;
     width: 50%;
     min-height: 34rem;
@@ -127,7 +127,7 @@ body{
     background-image: url(./img/googleplay-button.png);
 }
 
-/* media queries*/
+/* 2 media queries*/
 
 @media (max-width: 1024px) {
     .instagram-wrapper {
