@@ -61,5 +61,5 @@ The images in this project were made by repo's owner or taken from another repo 
 I wish to say thanks to <b>Digital Innovation One</b> and <b>everis</b> for make this bootcamp possible. Special thanks to Gabriela Pinheiro by skillfully teaching in this course. Thank you very much. You are doing a great job. 
 
 <p align="right">
-    <img alt="blackcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/greycat.png" width="140">
+    <a href="https://github.com/gustavofpereira"><img alt="tagcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/tagcat.png" width="140"></a>
 </p>
