@@ -7,7 +7,7 @@
 </h2>
 
 <p>
-This repository was created as part of bootcamp "Decola Dev Avanade 2021" by Digital Innovation One and it's purpose is recreate the Instagram interface to reinforce the principles of HTM5 and CSS3.
+This repository was created as part of bootcamp "Decola Dev Avanade 2021" by Digital Innovation One with the objective to learn/improve HTML5 and CSS3. The task is to recreate Instagram´s interface.
 </p>
 
 <p align="center">
