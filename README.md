@@ -28,7 +28,7 @@ To build this project the following technologies were used:
 
 Just clone this repository in the folder that you want and run index.html on browser:
 
-  `$ git clone hhtps://github.com/gustavofpereira/instagram-class.git`
+  `$ git clone https://github.com/gustavofpereira/instagram-class.git`
   
 ## :books: Sharing
 
