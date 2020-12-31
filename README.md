@@ -18,7 +18,7 @@ Heroku was used to publish this site, and you can see it by click on the link be
 
 ## :computer: Technologies
 
-To build this project the follow technologies were used:
+To build this project the following technologies were used:
 
   - [Html5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
   - [Css3](https://www.w3schools.com/css/)
