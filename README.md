@@ -7,17 +7,7 @@
 </h2>
 
 <p>
-This repository was created as part of bootcamp "Decola Dev Avanade 2021" by Digital Innovation One with the objective to learn/improve HTML5 and CSS3 skills. The task is to recreate Instagram´s interface.
-</p>
-
-<p align="center">
-  <a href="#cloud-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#books-learning">Learning</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#small_orange_diamond-sharing">Sharing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#small_orange_diamond-customizing">Customizing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#small_orange_diamond-license">License</a>
+This repository was created as part of bootcamp "Decola Dev Avanade 2021" by Digital Innovation One with the objective to learn/improve HTML5 and CSS3 skills. The task is to recreate Instagram´s home interface.
 </p>
 
 <p align="center">
