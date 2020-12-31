@@ -16,7 +16,7 @@ Heroku was used to publish this site, and you can see it by click on the link be
 
   - [https://instagram-class.herokuapp.com](https://instagram-class.herokuapp.com)
 
-## :rocket: Technologies
+## :computer: Technologies
 
 To build this project the follow technologies were used:
 
@@ -25,37 +25,11 @@ To build this project the follow technologies were used:
   - [JavaScript](https://javascript.info/)
   - [How to Deploy a Static Site to Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku)
 
-## :computer: Installing
+## :rocket: Installing
 
 Just clone this repository in the folder that you want and run index.html on browser:
 
-  `$ git clone https://github.com/clovisdanielcosta/instragram-interface.git`
-
-## :books: Learning
-
-  - Better understanding of justify-content and align-items. 
-  - Flex-direction can invert the properties above. 
-  - Over-flow: hidden to make invisible any piece of image which was not rounded by border-radius.
-  - Better understanding of nth:child to use background-image.
-  - Little bit more about media queries.
-
-## :small_orange_diamond: Sharing
-
-To learn about use of slides and carousel you can reach the link below:
-
-  [W3Schools - How to create a slide show](https://www.w3schools.com/howto/howto_js_slideshow.asp)
-
-## :small_orange_diamond: Customizing
-
-  1. Use of different images and slide show to look even more like Instagram. 
-  2. Use of jJavascript to run the slide show automatically.
-  3. Use font Calibri.
-
-## :small_orange_diamond: License
-
-This project is under MIT license. Open file [LICENSE](LICENSE.md) to details. 
-The images in this project were made by repo's owner or taken from another repo in the web with the right authorization of use.
-
+  `$ git clone hhttps://github.com/gustavofpereira/instagram-class.git`
 
 <p align="right">
     <a href="https://github.com/gustavofpereira"><img alt="tagcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/tagcat.png" width="140"></a>
