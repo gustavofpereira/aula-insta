@@ -10,7 +10,7 @@
 This repository was created as part of bootcamp "Decola Dev <a href=https://www.avanade.com>Avanade</a> 2021" by Digital Innovation One with the objective to learn/improve HTML5 and CSS3 skills. The task is to recreate Instagram´s home interface.
 </p>
 
-## ::globe_with_meridians:: Deploying
+## :globe_with_meridians: Deploying
   
 Heroku was used to publish this site, and you can see it by click on the link below:
 
@@ -56,9 +56,6 @@ To learn about use of slides and carousel you can reach the link below:
 This project is under MIT license. Open file [LICENSE](LICENSE.md) to details. 
 The images in this project were made by repo's owner or taken from another repo in the web with the right authorization of use.
 
-## :small_orange_diamond: Thanks
-
-I wish to say thanks to <b>Digital Innovation One</b> and <b>everis</b> for make this bootcamp possible. Special thanks to Gabriela Pinheiro by skillfully teaching in this course. Thank you very much. You are doing a great job. 
 
 <p align="right">
     <a href="https://github.com/gustavofpereira"><img alt="tagcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/tagcat.png" width="140"></a>
