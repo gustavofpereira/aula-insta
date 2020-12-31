@@ -21,9 +21,8 @@ Heroku was used to publish this project, and you can see it clicking on the link
 To build this project the following technologies were used:
 
   - [Html5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-  - [Css3](https://www.w3schools.com/css/)
+  - [CSS3](https://www.w3schools.com/css/)
   - [JavaScript](https://javascript.info/)
-  - [How to Deploy a Static Site to Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku)
 
 ## :rocket: Installing
 
