@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-Bootcamp Decola Dev Avanade by [Digital Innovation One](https://digitalinnovation.one/)
+  Bootcamp Decola Dev Avanade by <a href=https://digitalinnovation.one/>Digital Innovation One</a>
 </h2>
 
 <p>
