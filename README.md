@@ -1,13 +1,13 @@
 <h1 align="center">
-:large_orange_diamond: Instagram Interface: Recreating
+:large_orange_diamond: Instagram Interface: Recreating :large_orange_diamond:
 </h1>
 
 <h2 align="center">
-  Bootcamp Decola Dev Avanade by <a href=https://digitalinnovation.one/>Digital Innovation One</a>
+  Bootcamp Decola Dev Avanade 2021 by <a href=https://digitalinnovation.one/>Digital Innovation One</a>
 </h2>
 
 <p>
-This repository was created as part of bootcamp "Decola Dev Avanade" by Digital Innovation One and it's purpose is recreate the Instagram interface to reinforce the principles of HTM5 and CSS3.
+This repository was created as part of bootcamp "Decola Dev Avanade 2021" by Digital Innovation One and it's purpose is recreate the Instagram interface to reinforce the principles of HTM5 and CSS3.
 </p>
 
 <p align="center">
