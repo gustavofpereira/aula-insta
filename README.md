@@ -7,7 +7,7 @@
 </h2>
 
 <p>
-This repository was created as part of bootcamp "Decola Dev Avanade 2021" by Digital Innovation One with the objective to learn/improve HTML5 and CSS3 skills. The task is to recreate Instagram´s home interface.
+This repository was created as part of bootcamp "Decola Dev <a href=https://www.avanade.com>Avanade</a> 2021" by Digital Innovation One with the objective to learn/improve HTML5 and CSS3 skills. The task is to recreate Instagram´s home interface.
 </p>
 
 ## ::globe_with_meridians:: Deploying
