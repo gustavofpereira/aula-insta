@@ -12,7 +12,7 @@ This repository was created as part of bootcamp "Decola Dev <a href=https://www.
 
 ## :globe_with_meridians: Deploying
   
-Heroku was used to publish this site, and you can see it by click on the link below:
+Heroku was used to publish this site, and you can see it clicking on the link below:
 
   - [https://instagram-class.herokuapp.com](https://instagram-class.herokuapp.com)
 
