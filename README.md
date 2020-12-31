@@ -1,5 +1,5 @@
 <h1 align="center">
-:octocat: Instagram Interface: Recreating
+::large_orange_diamond: Instagram Interface: Recreating
 </h1>
 
 <h2 align="center">
