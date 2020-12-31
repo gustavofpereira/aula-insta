@@ -12,7 +12,7 @@ This repository was created as part of bootcamp "Decola Dev <a href=https://www.
 
 ## :globe_with_meridians: Deploying
   
-Heroku was used to publish this site, and you can see it clicking on the link below:
+Heroku was used to publish this project, and you can see it clicking on the link below:
 
   - [https://instagram-class.herokuapp.com](https://instagram-class.herokuapp.com)
 
@@ -33,7 +33,7 @@ Just clone this repository in the folder that you want and run index.html on bro
   
 ## :books: Sharing
 
-This project was published using the following platform:
+Please, find bellow a guide to publish at Heroku´s platform:
 
   - [How to Deploy a Static Site to Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku)
 
