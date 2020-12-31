@@ -10,21 +10,22 @@
 This repository was created as part of bootcamp "Decola Dev Avanade 2021" by Digital Innovation One with the objective to learn/improve HTML5 and CSS3 skills. The task is to recreate Instagram´s home interface.
 </p>
 
-## :cloud: Deploy
+## ::globe_with_meridians:: Deploying
   
-Was used Heroku to publish this page and you can see it by click on the link below:
+Heroku was used to publish this site, and you can see it by click on the link below:
 
-  - [https://instagram-interface.herokuapp.com/](https://instagram-interface.herokuapp.com/)
+  - [https://instagram-class.herokuapp.com](https://instagram-class.herokuapp.com)
 
 ## :rocket: Technologies
 
 To build this project the follow technologies were used:
 
   - [Html5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-  - [Css3](http://www.linhadecodigo.com.br/artigo/3566/introducao-as-novidades-do-css3.aspx)
-  - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  - [Css3](https://www.w3schools.com/css/)
+  - [JavaScript](https://javascript.info/)
+  - [How to Deploy a Static Site to Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku)
 
-## :computer: Installation
+## :computer: Installing
 
 Just clone this repository in the folder that you want and run index.html on browser:
 
@@ -59,4 +60,6 @@ The images in this project were made by repo's owner or taken from another repo 
 
 I wish to say thanks to <b>Digital Innovation One</b> and <b>everis</b> for make this bootcamp possible. Special thanks to Gabriela Pinheiro by skillfully teaching in this course. Thank you very much. You are doing a great job. 
 
-Well done! :clap: :clap:
+<p align="right">
+    <img alt="blackcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/greycat.png" width="140">
+</p>
