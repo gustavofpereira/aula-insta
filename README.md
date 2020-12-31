@@ -30,6 +30,12 @@ To build this project the following technologies were used:
 Just clone this repository in the folder that you want and run index.html on browser:
 
   `$ git clone hhttps://github.com/gustavofpereira/instagram-class.git`
+  
+## :books: Sharing
+
+This project was published using the following platform:
+
+  - [How to Deploy a Static Site to Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku)
 
 <p align="right">
     <a href="https://github.com/gustavofpereira"><img alt="tagcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/tagcat.png" width="140"></a>
